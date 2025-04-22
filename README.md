@@ -139,6 +139,7 @@ rename 's/old-name/new-name/' <files>
 ```
 
 **Output:**
+file:///home/sec/Pictures/Screenshots/Screenshot%20from%202025-04-22%2013-38-14.png![image](https://github.com/user-attachments/assets/b44749a5-4461-496b-a072-ffc6f03f9ab7)
 
 ### 12. `head` Command
 
@@ -151,6 +152,9 @@ head <file_name>
 
 **Output:**
 
+file:///home/sec/Pictures/Screenshots/Screenshot%20from%202025-04-22%2013-40-01.png![image](https://github.com/user-attachments/assets/82caf4ab-d438-47f3-b39c-a910b0ade903)
+
+
 ### 13. `tail` Command
 
 The `tail` command displays the last 10 lines of a file.
@@ -161,6 +165,7 @@ tail <file_name>
 ```
 
 **Output:**
+file:///home/sec/Pictures/Screenshots/Screenshot%20from%202025-04-22%2013-42-01.png![image](https://github.com/user-attachments/assets/9ae8235e-d95e-49cd-b524-0e42355954ff)
 
 ### 14. `id` Command
 
@@ -172,6 +177,8 @@ id
 ```
 
 **Output:**
+file:///home/sec/Pictures/Screenshots/Screenshot%20from%202025-04-22%2013-42-35.png![image](https://github.com/user-attachments/assets/9afc642b-26c5-44b9-a9d5-6a07be8cd13b)
+
 
 ### 15. `grep` Command
 
@@ -183,6 +190,7 @@ command | grep <search_word>
 ```
 
 **Output:**
+file:///home/sec/Pictures/Screenshots/Screenshot%20from%202025-04-22%2013-44-43.png![image](https://github.com/user-attachments/assets/f6dbf1e6-4fcb-4d74-a53e-3d2872c82c7d)
 
 ### 16. `tr` Command
 
@@ -194,6 +202,7 @@ command | tr <old> <new>
 ```
 
 **Output:**
+file:///home/sec/Pictures/Screenshots/Screenshot%20from%202025-04-22%2013-45-58.png![image](https://github.com/user-attachments/assets/8c285274-d892-4289-9a26-85ad9f3bb3d9)
 
 ### 17. `chmod` Command
 
@@ -205,6 +214,7 @@ chmod <options> <permissions> <file_name>
 ```
 
 **Output:**
+file:///home/sec/Pictures/Screenshots/Screenshot%20from%202025-04-22%2013-47-46.png![image](https://github.com/user-attachments/assets/f76da427-2bc8-4848-a7ee-f6d68a7ebc8b)
 
 ### 18. `tar` Command
 
@@ -216,6 +226,7 @@ tar [options] [archive-file] [files_to_archive]
 ```
 
 **Output:**
+file:///home/sec/Pictures/Screenshots/Screenshot%20from%202025-04-22%2013-49-46.png![image](https://github.com/user-attachments/assets/f9f16489-b036-46cb-acc8-6b298d75fcdf)
 
 ### 19. `chown` Command
 
@@ -227,6 +238,7 @@ chown <owner_name> <file_name>
 ```
 
 **Output:**
+file:///home/sec/Pictures/Screenshots/Screenshot%20from%202025-04-22%2013-51-43.png![image](https://github.com/user-attachments/assets/6185dad0-5f90-4697-8e73-77c67210e422)
 
 ### 20. `make` Command
 
@@ -238,6 +250,7 @@ make [-f makefile] [options] [targets]
 ```
 
 **Output:**
+file:///home/sec/Pictures/Screenshots/Screenshot%20from%202025-04-22%2013-55-46.png![image](https://github.com/user-attachments/assets/4c12104b-9ec0-48df-a9e2-5c0acf50bc52)
 
 ### 21. `ifconfig` Command
 
@@ -249,6 +262,8 @@ ifconfig [options] [interface]
 ```
 
 **Output:**
+file:///home/sec/Pictures/Screenshots/Screenshot%20from%202025-04-22%2013-57-08.png![image](https://github.com/user-attachments/assets/a7fc309b-16b5-45eb-962b-bf0070920740)
+
 
 ### 22. `chmod 777` Command
 
@@ -261,6 +276,7 @@ chmod -R 777 /path/to/file/or/folder
 ```
 
 **Output:**
+file:///home/sec/Pictures/Screenshots/Screenshot%20from%202025-04-22%2013-58-16.png![image](https://github.com/user-attachments/assets/789a8b5d-d375-4570-a3bf-ab55cd4304d8)
 
 ### 23. `host` Command
 
@@ -272,6 +288,7 @@ host <domain_name> or <ip_address>
 ```
 
 **Output:**
+file:///home/sec/Pictures/Screenshots/Screenshot%20from%202025-04-22%2013-59-04.png![image](https://github.com/user-attachments/assets/fc19fe0c-4e25-4eeb-8fcf-70cca792b777)
 
 ### 24. `gzip` Command
 
@@ -283,6 +300,7 @@ gzip <file1> <file2> <file3>...
 ```
 
 **Output:**
+file:///home/sec/Pictures/Screenshots/Screenshot%20from%202025-04-22%2014-00-29.png![image](https://github.com/user-attachments/assets/2d141ea2-8546-4f89-bc86-4448e3e9e049)
 
 ### 25. `sort` Command
 
@@ -294,6 +312,7 @@ sort <file_name>
 ```
 
 **Output:**
+file:///home/sec/Pictures/Screenshots/Screenshot%20from%202025-04-22%2014-02-37.png![image](https://github.com/user-attachments/assets/dc1a605c-7ff8-4bb6-a655-36942ba32a4b)
 
 ### 26. `cal` Command
 
@@ -305,6 +324,7 @@ cal
 ```
 
 **Output:**
+file:///home/sec/Pictures/Screenshots/Screenshot%20from%202025-04-22%2014-07-23.png![image](https://github.com/user-attachments/assets/3c6eff92-b656-4633-aba2-cd87ba0a9c01)
 
 ### 27. `clear` Command
 
@@ -316,6 +336,7 @@ clear
 ```
 
 **Output:**
+file:///home/sec/Pictures/Screenshots/Screenshot%20from%202025-04-22%2014-08-17.png![image](https://github.com/user-attachments/assets/58ee685c-cacc-49e5-9005-4582d317f153)
 
 ### 28. `mail` Command
 
@@ -327,6 +348,7 @@ mail
 ```
 
 **Output:**
+file:///home/sec/Pictures/Screenshots/Screenshot%20from%202025-04-22%2014-09-47.png![image](https://github.com/user-attachments/assets/1b7041cc-3b98-4fdf-8b3e-07470f0619c0)
 
 ### 29. `df` Command
 
@@ -338,6 +360,7 @@ df
 ```
 
 **Output:**
+file:///home/sec/Pictures/Screenshots/Screenshot%20from%202025-04-22%2014-10-27.png![image](https://github.com/user-attachments/assets/0ee70a8c-3911-4d91-ade4-eb20be8d45d2)
 
 ### 30. `find` Command
 
@@ -350,4 +373,8 @@ find <directory> -name <file_name>
 
 **Output:**
 
+file:///home/sec/Pictures/Screenshots/Screenshot%20from%202025-04-22%2014-11-47.png![image](https://github.com/user-attachments/assets/6ebb1cdb-4b56-445e-8b6f-d6cb253be78e)
+
+
 ## Result
+   thus the Linux commands are executed in the terminal successfully.
