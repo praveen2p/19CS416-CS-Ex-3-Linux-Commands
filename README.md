@@ -16,6 +16,7 @@ ls
 ```
 
 **Output:**
+file:///home/sec/Pictures/Screenshots/Screenshot%20from%202025-04-22%2013-22-25.png![image](https://github.com/user-attachments/assets/3c44a45b-3a52-423a-bc1e-1deea0251fa9)
 
 ### 2. `pwd` Command
 
@@ -27,6 +28,8 @@ pwd
 ```
 
 **Output:**
+file:///home/sec/Pictures/Screenshots/Screenshot%20from%202025-04-22%2013-23-26.png![image](https://github.com/user-attachments/assets/0abc6bf4-3b82-4a40-83a4-598267911b6f)
+
 
 ### 3. `mkdir` Command
 
@@ -38,6 +41,8 @@ mkdir <directory_name>
 ```
 
 **Output:**
+file:///home/sec/Pictures/Screenshots/Screenshot%20from%202025-04-22%2013-24-26.png![image](https://github.com/user-attachments/assets/46e26b35-e824-4ddf-a27f-56b12ca876a0)
+
 
 ### 4. `rmdir` Command
 
@@ -49,6 +54,7 @@ rmdir <directory_name>
 ```
 
 **Output:**
+file:///home/sec/Pictures/Screenshots/Screenshot%20from%202025-04-22%2013-25-30.png![image](https://github.com/user-attachments/assets/96cc8ba2-effd-42af-a90e-ec4453e8e00b)
 
 ### 5. `cd` Command
 
@@ -60,6 +66,7 @@ cd <directory_name>
 ```
 
 **Output:**
+file:///home/sec/Pictures/Screenshots/Screenshot%20from%202025-04-22%2013-26-32.png![image](https://github.com/user-attachments/assets/b66be90c-a981-491e-a5f6-fe6cb7945d71)
 
 ### 6. `cat` Command
 
@@ -71,6 +78,7 @@ cat [OPTION]... [FILE]...
 ```
 
 **Output:**
+file:///home/sec/Pictures/Screenshots/Screenshot%20from%202025-04-22%2013-28-09.png![image](https://github.com/user-attachments/assets/815825b6-249b-4d4d-8de7-457cf0bcaec8)
 
 ### 7. `cp` Command
 
@@ -82,6 +90,7 @@ cp <source_file> <destination_file>
 ```
 
 **Output:**
+file:///home/sec/Pictures/Screenshots/Screenshot%20from%202025-04-22%2013-29-32.png![image](https://github.com/user-attachments/assets/88e6a40e-3a69-42cd-aa55-800a403e1de8)
 
 ### 8. `gedit` Command
 
@@ -93,6 +102,7 @@ gedit <file_name>
 ```
 
 **Output:**
+file:///home/sec/Pictures/Screenshots/Screenshot%20from%202025-04-22%2013-31-20.png![image](https://github.com/user-attachments/assets/8514ad7b-26a5-4260-a822-71e82549a46d)
 
 ### 9. `su` Command
 
@@ -104,6 +114,7 @@ su <username>
 ```
 
 **Output:**
+file:///home/sec/Pictures/Screenshots/Screenshot%20from%202025-04-22%2013-32-36.png![image](https://github.com/user-attachments/assets/798aab32-dd50-4a6b-be05-a033eacca973)
 
 ### 10. `mv` Command
 
@@ -115,6 +126,8 @@ mv <file_name> <directory_path>
 ```
 
 **Output:**
+file:///home/sec/Pictures/Screenshots/Screenshot%20from%202025-04-22%2013-34-32.png![image](https://github.com/user-attachments/assets/a33f85b4-cd54-4087-aa41-7b11ee0b6e54)
+
 
 ### 11. `rename` Command
 
